@@ -1,0 +1,16 @@
+
+*.exe
+/server
+/cmd/api/api
+
+.idea/
+.vscode/
+
+
+.env
+.env.local
+
+postgres_data/
+
+.DS_Store
+Thumbs.db
